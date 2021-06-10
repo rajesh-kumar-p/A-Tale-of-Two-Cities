@@ -1,0 +1,15 @@
+For this project we need the following data :
+
+New Delhi Resturants data that contains features list of : Locality, Resturant Name, Rating, Latitude and Longitude.
+
+Data source : Zomato kaggel dataset : "https://www.kaggle.com/shrutimehta/zomato-restaurants-data"
+
+Description : This data set contains the required information. And we will use this data set to explore various locality of new delhi city.
+Nearby places in each locality of new delhi city.
+Features : ID, Name, Country, City, Address, Locality, Longitude and Latitude, Cuisines, some info like booking and online delivery information, price range, rating by color or text, votes.
+
+Data source : Fousquare API : "https://developer.foursquare.com/"
+Description : By using this api we will get all the venues in each neighborhood.
+
+Features: Locality/Restaurant, Longitutde, Latitude
+To know all of the venues in the city.
