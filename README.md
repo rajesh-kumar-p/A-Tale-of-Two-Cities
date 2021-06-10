@@ -6,10 +6,10 @@
 Clustering the Neighbourhoods of London and Paris
   <br>
   <br>
-Thomas George Thomas
+Patta Rajesh Kumar
 <br>
   <br>
-18th August 2020
+10th june 2021
 </h2>
 
 # Introduction
